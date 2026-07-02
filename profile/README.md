@@ -1,1 +1,1 @@
-# Welcome to Sapling Studios!
+![Sapling Studios Banner](https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=17&text=Sapling%20Devs&section=header&reversal=false&descAlignY=68&fontAlignY=40&fontAlign=50)
